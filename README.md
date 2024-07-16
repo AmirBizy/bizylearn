@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s8.uupload.ir/files/logo-laravel-border_74hi.png" alt="jalali">
+<img src="https://s8.uupload.ir/files/cover-2-new_2zto.jpg" alt="bizylearn">
 </p>
 <h1 align="center">AmirBizy/bizylearn</h1>
 
