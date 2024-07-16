@@ -1,0 +1,57 @@
+[07-Aug-2023 14:35:14 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:35:14 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:20 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:20 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:32 Europe/London] PHP Parse error:  syntax error, unexpected token "." in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:32 Europe/London] PHP Parse error:  syntax error, unexpected token "." in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:40 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course.././vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:40 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course.././vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:40 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course.././vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:40 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course.././vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:46 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course././vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:46 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course././vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:51 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course./../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:51 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course./../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:53 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course./../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:53 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course./../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:53 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course./../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:41:53 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course./../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:42:10 Europe/London] PHP Warning:  require(/home/bizyir/public_html/sale-course/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:42:10 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 34
+[07-Aug-2023 14:42:56 Europe/London] PHP Warning:  require_once(/home/bizyir/public_html/sale-course/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/sale-course/index.php on line 47
+[07-Aug-2023 14:42:56 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/sale-course/../bootstrap/app.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/sale-course/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/sale-course/index.php on line 47
+[01-Sep-2023 10:42:30 Europe/London] PHP Warning:  require(/home/bizyir/public_html/rtl-theme/laravel-sale-course/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/bizyir/public_html/rtl-theme/laravel-sale-course/index.php on line 34
+[01-Sep-2023 10:42:30 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/bizyir/public_html/rtl-theme/laravel-sale-course/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bizyir/public_html/rtl-theme/laravel-sale-course/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bizyir/public_html/rtl-theme/laravel-sale-course/index.php on line 34

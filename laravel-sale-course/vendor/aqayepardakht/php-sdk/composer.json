@@ -1,0 +1,13 @@
+{
+    "name": "aqayepardakht/php-sdk",
+    "autoload": {
+        "psr-4": {
+            "Aqayepardakht\\PhpSdk\\": "src/"
+        }
+    },
+    "require": {
+        "aqayepardakht/http": "^2.0"
+    },
+    "minimum-stability": "dev"
+}
+ 

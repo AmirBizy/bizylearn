@@ -1,0 +1,27 @@
+{
+    "remotePath": "/home/bizyir",
+    "host": "764087210.cloudylink.com",
+    "username": "bizyir",
+    "password": "B3ZVNKCU3MSqwu",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}

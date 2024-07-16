@@ -1,0 +1,26 @@
+dist: bionic
+
+language: php
+
+php:
+  - 7.3
+  - 7.4
+  - 8.0
+
+matrix:
+  fast_finish: true
+
+install:
+  - travis_retry composer self-update
+  - travis_retry composer install --prefer-source --no-interaction --dev
+
+after_success:
+  - travis_retry php vendor/bin/php-coveralls -v
+
+script:
+  - mkdir -p build/logs
+  - php vendor/bin/phpunit -c phpunit.xml.dist
+
+cache:
+  directories:
+    - "$HOME/.composer/cache/files"
